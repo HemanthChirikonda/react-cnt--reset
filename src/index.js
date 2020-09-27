@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Buttonapp from './world';
 import * as serviceWorker from './serviceWorker';
-import Timer from './timer.js'
+//import Timer from './timer.js'
 
 ReactDOM.render(
   <React.StrictMode>
